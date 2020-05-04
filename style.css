@@ -34,7 +34,7 @@ body {
 }
 .column.side {
     width: 25%;
-    height: 590px;
+    height: 800px;
     background-color: coral;
 }
 .column.middle {
